@@ -56,3 +56,7 @@ npm install --save-dev typescript
 - F5キーで実行する。
 - コンソール入力する。
 - ctrl + c を入力してプログラムを実行する。
+## Paizaで解答する
+- ./dist/index.jsのプログラムを全選択しコピーする。
+- Paizaにて、回答欄の選択言語をjavascriptにし、プログラムを貼り付ける。
+- 入力例を試してよさそうならコードを提出する。
